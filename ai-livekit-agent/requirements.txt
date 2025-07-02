@@ -1,0 +1,11 @@
+together
+sounddevice
+speechrecognition
+pydub
+openai-whisper
+gtts
+numpy
+soundfile
+livekit
+livekit-server-sdk  # Install from: https://github.com/livekit/server-sdk-py
+
